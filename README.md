@@ -1,2 +1,2 @@
 # to-do-list
-It's a to-do list developed for iOS and Android using Cordova
+It's a basic to-do list developed for iOS and Android using Cordova
